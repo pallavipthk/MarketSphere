@@ -1,0 +1,481 @@
+{
+  "users": [
+    {
+      "_id": "ynikmddee",
+      "createdAt": "2026-08-11T13:38:50.328Z",
+      "updatedAt": "2026-08-11T13:38:50.328Z",
+      "name": "Platform Administrator",
+      "email": "admin@marketsphere.com",
+      "password": "$2b$10$3XGr1pon2ZGE.MpsEv2RSeScBjejLYkZywwILsF8cqKQf3siSepX6",
+      "role": "admin",
+      "avatar": ""
+    },
+    {
+      "_id": "9geke3gc1",
+      "createdAt": "2026-08-11T13:38:50.331Z",
+      "updatedAt": "2026-08-11T13:38:50.331Z",
+      "name": "Alex TechMerchant",
+      "email": "seller1@marketsphere.com",
+      "password": "$2b$10$mXgB3LI6m1zfXUMdTnkxouWXeJ14yZ3rzf8oieysree2LsvDW7Gc2",
+      "role": "seller"
+    },
+    {
+      "_id": "sio77rhn3",
+      "createdAt": "2026-08-11T13:38:50.333Z",
+      "updatedAt": "2026-08-11T13:38:50.333Z",
+      "name": "Sophia FashionHouse",
+      "email": "seller2@marketsphere.com",
+      "password": "$2b$10$mXgB3LI6m1zfXUMdTnkxouWXeJ14yZ3rzf8oieysree2LsvDW7Gc2",
+      "role": "seller"
+    },
+    {
+      "_id": "161vkixr4",
+      "createdAt": "2026-08-11T13:38:50.335Z",
+      "updatedAt": "2026-08-11T13:38:50.335Z",
+      "name": "Liam Buyer",
+      "email": "customer1@marketsphere.com",
+      "password": "$2b$10$mXgB3LI6m1zfXUMdTnkxouWXeJ14yZ3rzf8oieysree2LsvDW7Gc2",
+      "role": "customer"
+    },
+    {
+      "_id": "ds382qeg8",
+      "createdAt": "2026-08-11T13:38:50.337Z",
+      "updatedAt": "2026-08-11T13:38:50.337Z",
+      "name": "Emma Shopper",
+      "email": "customer2@marketsphere.com",
+      "password": "$2b$10$mXgB3LI6m1zfXUMdTnkxouWXeJ14yZ3rzf8oieysree2LsvDW7Gc2",
+      "role": "customer"
+    },
+    {
+      "_id": "oq4p30ts4",
+      "createdAt": "2026-08-11T13:38:50.341Z",
+      "updatedAt": "2026-08-11T13:38:50.341Z",
+      "name": "Oliver DealFinder",
+      "email": "customer3@marketsphere.com",
+      "password": "$2b$10$mXgB3LI6m1zfXUMdTnkxouWXeJ14yZ3rzf8oieysree2LsvDW7Gc2",
+      "role": "customer"
+    },
+    {
+      "_id": "nsgil9g13",
+      "createdAt": "2026-08-11T13:38:50.342Z",
+      "updatedAt": "2026-08-11T13:38:50.342Z",
+      "name": "Ava Premium",
+      "email": "customer4@marketsphere.com",
+      "password": "$2b$10$mXgB3LI6m1zfXUMdTnkxouWXeJ14yZ3rzf8oieysree2LsvDW7Gc2",
+      "role": "customer"
+    },
+    {
+      "_id": "qlmgbyx9i",
+      "createdAt": "2026-08-11T13:38:50.344Z",
+      "updatedAt": "2026-08-11T13:38:50.344Z",
+      "name": "Noah Retail",
+      "email": "customer5@marketsphere.com",
+      "password": "$2b$10$mXgB3LI6m1zfXUMdTnkxouWXeJ14yZ3rzf8oieysree2LsvDW7Gc2",
+      "role": "customer"
+    },
+    {
+      "_id": "6i9spnhns",
+      "createdAt": "2026-08-14T10:53:30.853Z",
+      "updatedAt": "2026-08-14T10:53:30.853Z",
+      "name": "P",
+      "email": "imailpallavi@gmail.com",
+      "password": "$2b$10$uyOyiYfrUoO2tq62N5s3c.SsfADJQM20TdTXOUwx.SB5R9ok9tNWG",
+      "role": "customer",
+      "avatar": ""
+    },
+    {
+      "_id": "0qqj73fnd",
+      "createdAt": "2026-08-14T10:56:24.507Z",
+      "updatedAt": "2026-08-14T10:56:24.507Z",
+      "name": "P",
+      "email": "itspathak03@gmail.com",
+      "password": "$2b$10$iKKikQr1k7HnyC7BAfX1guJlUy8V8co2.QVN6hEQMfnNYMTkrVxj6",
+      "role": "seller",
+      "avatar": ""
+    }
+  ],
+  "stores": [
+    {
+      "_id": "8kf1nl66h",
+      "createdAt": "2026-08-11T13:38:50.345Z",
+      "updatedAt": "2026-08-11T13:38:50.345Z",
+      "sellerId": "9geke3gc1",
+      "name": "MarketSphere Tech",
+      "description": "Authorized retailer for top tier laptops, soundbars, headphones, and screens.",
+      "logo": "",
+      "location": "Bangalore, KA"
+    },
+    {
+      "_id": "k72164ojo",
+      "createdAt": "2026-08-11T13:38:50.347Z",
+      "updatedAt": "2026-08-11T13:38:50.347Z",
+      "sellerId": "sio77rhn3",
+      "name": "Fashion Hub",
+      "description": "Stunning premium clothing, activewear, jackets, and accessories.",
+      "logo": "",
+      "location": "Mumbai, MH"
+    },
+    {
+      "_id": "4bipnvvff",
+      "createdAt": "2026-08-11T13:38:50.349Z",
+      "updatedAt": "2026-08-11T13:38:50.349Z",
+      "sellerId": "sio77rhn3",
+      "name": "Home & Living",
+      "description": "Artisanal cushions, modern table lamps, and luxury espresso brewers.",
+      "logo": "",
+      "location": "Delhi, DL"
+    }
+  ],
+  "categories": [],
+  "products": [
+    {
+      "_id": "ez5upesdw",
+      "createdAt": "2026-08-11T13:38:50.351Z",
+      "updatedAt": "2026-08-11T13:38:50.351Z",
+      "sellerId": "9geke3gc1",
+      "storeId": "8kf1nl66h",
+      "name": "Pro Noise-Cancelling Headphones",
+      "description": "Experience pure acoustic audio. Features adaptive sound masking, Bluetooth 5.2, and 40 hour battery life.",
+      "price": 9999,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=400",
+      "stock": 12,
+      "rating": 4.8,
+      "reviewsCount": 1
+    },
+    {
+      "_id": "5jbl0p7rk",
+      "createdAt": "2026-08-11T13:38:50.351Z",
+      "updatedAt": "2026-08-11T13:38:50.351Z",
+      "sellerId": "9geke3gc1",
+      "storeId": "8kf1nl66h",
+      "name": "UltraLite 14-inch Laptop",
+      "description": "Performance meets portability. Intel i7 core CPU, 16GB RAM, 512GB NVMe SSD, and 12-hour high endurance capacity.",
+      "price": 54999,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1496181130204-7552cc145cd1?auto=format&fit=crop&q=80&w=400",
+      "stock": 3,
+      "rating": 4.5,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "xwwnzdhkt",
+      "createdAt": "2026-08-11T13:38:50.351Z",
+      "updatedAt": "2026-08-11T13:38:50.351Z",
+      "sellerId": "9geke3gc1",
+      "storeId": "8kf1nl66h",
+      "name": "Aerofit Smartwatch v2",
+      "description": "Your wellness partner. Heart rate monitoring, blood oxygen sensing, sleep analysis, and water resistance.",
+      "price": 4999,
+      "category": "electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=400",
+      "stock": 8,
+      "rating": 4.2,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "gwn5t2h5x",
+      "createdAt": "2026-08-11T13:38:50.351Z",
+      "updatedAt": "2026-08-11T13:38:50.351Z",
+      "sellerId": "sio77rhn3",
+      "storeId": "k72164ojo",
+      "name": "Unisex Leather Travel Bag",
+      "description": "Handcrafted full-grain leather weekender. Features custom compartments, metallic buckles, and vintage patina.",
+      "price": 3499,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=400",
+      "stock": 15,
+      "rating": 4.9,
+      "reviewsCount": 1
+    },
+    {
+      "_id": "8mjvherji",
+      "createdAt": "2026-08-11T13:38:50.351Z",
+      "updatedAt": "2026-08-11T13:38:50.351Z",
+      "sellerId": "sio77rhn3",
+      "storeId": "k72164ojo",
+      "name": "Waterproof Hooded Windbreaker",
+      "description": "Breathable ripstop nylon shell. Ideal for trail hiking, cycling, and city commutes during monsoon.",
+      "price": 1899,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&q=80&w=400",
+      "stock": 0,
+      "rating": 3.8,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "tmth48smq",
+      "createdAt": "2026-08-11T13:38:50.351Z",
+      "updatedAt": "2026-08-11T13:38:50.351Z",
+      "sellerId": "sio77rhn3",
+      "storeId": "k72164ojo",
+      "name": "Classic White Athletic Sneakers",
+      "description": "Memory foam insoles wrapped in micro-weave knit mesh. Maximum comfort for walking and jogging.",
+      "price": 2499,
+      "category": "fashion",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=400",
+      "stock": 22,
+      "rating": 4.6,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "5cotm88gm",
+      "createdAt": "2026-08-11T13:38:50.351Z",
+      "updatedAt": "2026-08-11T13:38:50.351Z",
+      "sellerId": "sio77rhn3",
+      "storeId": "4bipnvvff",
+      "name": "Minimalist Ceramic Table Lamp",
+      "description": "Warm ambient glow with structured clay base and natural linen shade. Includes smart energy LED bulb.",
+      "price": 1299,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&q=80&w=400",
+      "stock": 5,
+      "rating": 4.4,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "s4jwxb0z8",
+      "createdAt": "2026-08-11T13:38:50.351Z",
+      "updatedAt": "2026-08-11T13:38:50.351Z",
+      "sellerId": "sio77rhn3",
+      "storeId": "4bipnvvff",
+      "name": "Woven Cotton Throw Pillow Cushions",
+      "description": "Set of two boho-style covers with geometric fringes. Easy zipper release and washable canvas fabric.",
+      "price": 799,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&q=80&w=400",
+      "stock": 30,
+      "rating": 4,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "08iou8jmd",
+      "createdAt": "2026-08-11T13:38:50.351Z",
+      "updatedAt": "2026-08-11T13:38:50.351Z",
+      "sellerId": "sio77rhn3",
+      "storeId": "4bipnvvff",
+      "name": "Precision Drip Coffee Brewer",
+      "description": "Thermal siphon extraction pot with micro-mesh filter. Brings out rich aroma from fresh beans.",
+      "price": 1599,
+      "category": "home",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&q=80&w=400",
+      "stock": 14,
+      "rating": 4.7,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "fwpv2sxf7",
+      "createdAt": "2026-08-11T13:38:50.352Z",
+      "updatedAt": "2026-08-11T13:38:50.352Z",
+      "sellerId": "9geke3gc1",
+      "storeId": "8kf1nl66h",
+      "name": "Mastering TypeScript & Clean Code",
+      "description": "Comprehensive software development guide. Covers async code patterns, generic types, and clean OOP designs.",
+      "price": 699,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&q=80&w=400",
+      "stock": 18,
+      "rating": 4.3,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "p4o7v5snp",
+      "createdAt": "2026-08-11T13:38:50.352Z",
+      "updatedAt": "2026-08-11T13:38:50.352Z",
+      "sellerId": "9geke3gc1",
+      "storeId": "8kf1nl66h",
+      "name": "Interactive Science Encyclopedia",
+      "description": "Rich graphical illustrations explaining mechanics, cosmic astrophysics, anatomy, and microbiology.",
+      "price": 1499,
+      "category": "books",
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&q=80&w=400",
+      "stock": 7,
+      "rating": 4.5,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "vez9eo1sa",
+      "createdAt": "2026-08-11T13:38:50.352Z",
+      "updatedAt": "2026-08-11T13:38:50.352Z",
+      "sellerId": "sio77rhn3",
+      "storeId": "k72164ojo",
+      "name": "Pro-Grip Dumbbells Pair 10kg",
+      "description": "Heavy duty neoprene coating to prevent slips. Perfect for high intensity training at home.",
+      "price": 1999,
+      "category": "sports",
+      "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&q=80&w=400",
+      "stock": 10,
+      "rating": 4.6,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "fchadkbga",
+      "createdAt": "2026-08-11T13:38:50.352Z",
+      "updatedAt": "2026-08-11T13:38:50.352Z",
+      "sellerId": "sio77rhn3",
+      "storeId": "k72164ojo",
+      "name": "Anti-Slip Hybrid Yoga Mat",
+      "description": "Extra thick cushioning made of eco-friendly TPE material. Water resistant, easy-carry strap included.",
+      "price": 899,
+      "category": "sports",
+      "image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?auto=format&fit=crop&q=80&w=400",
+      "stock": 15,
+      "rating": 4.1,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "g1zdlqw9n",
+      "createdAt": "2026-08-11T13:38:50.352Z",
+      "updatedAt": "2026-08-11T13:38:50.352Z",
+      "sellerId": "sio77rhn3",
+      "storeId": "k72164ojo",
+      "name": "Organic Aloe Vera Face Moisturizer",
+      "description": "Intense hydration serum made of cold pressed aloe gel and cucumber extract. Free of chemicals.",
+      "price": 499,
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?auto=format&fit=crop&q=80&w=400",
+      "stock": 25,
+      "rating": 4.4,
+      "reviewsCount": 0
+    },
+    {
+      "_id": "mrtybjzdz",
+      "createdAt": "2026-08-11T13:38:50.352Z",
+      "updatedAt": "2026-08-11T13:38:50.352Z",
+      "sellerId": "sio77rhn3",
+      "storeId": "k72164ojo",
+      "name": "Luxury Charcoal Bath Soap",
+      "description": "Pack of three exfoliating carbon soaps. Extracts deep oils, leaving skin fresh and revitalized.",
+      "price": 349,
+      "category": "beauty",
+      "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=400",
+      "stock": 40,
+      "rating": 4.3,
+      "reviewsCount": 0
+    }
+  ],
+  "carts": [
+    {
+      "_id": "t2wpme0e5",
+      "createdAt": "2026-08-14T10:53:40.776Z",
+      "updatedAt": "2026-08-14T10:53:40.776Z",
+      "userId": "6i9spnhns",
+      "items": []
+    }
+  ],
+  "orders": [
+    {
+      "_id": "nkiutx2q8",
+      "createdAt": "2026-08-11T13:38:50.360Z",
+      "updatedAt": "2026-08-11T13:38:50.360Z",
+      "userId": "oq4p30ts4",
+      "sellerId": "9geke3gc1",
+      "items": [
+        {
+          "productId": "ez5upesdw",
+          "quantity": 1,
+          "price": 9999,
+          "name": "Pro Noise-Cancelling Headphones",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=400"
+        }
+      ],
+      "totalAmount": 9999,
+      "discount": 0,
+      "finalAmount": 9999,
+      "shippingAddress": {
+        "name": "Oliver DealFinder",
+        "street": "456 Central Avenue",
+        "city": "Bangalore",
+        "state": "KA",
+        "zipCode": "560001",
+        "country": "India",
+        "phone": "9876543211"
+      },
+      "paymentStatus": "PAID",
+      "paymentId": "mock_pay_seed_1",
+      "orderStatus": "PLACED"
+    },
+    {
+      "_id": "9db090z88",
+      "createdAt": "2026-08-11T13:38:50.362Z",
+      "updatedAt": "2026-08-11T13:38:50.362Z",
+      "userId": "nsgil9g13",
+      "sellerId": "sio77rhn3",
+      "items": [
+        {
+          "productId": "gwn5t2h5x",
+          "quantity": 2,
+          "price": 3499,
+          "name": "Unisex Leather Travel Bag",
+          "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=400"
+        }
+      ],
+      "totalAmount": 6998,
+      "discount": 50,
+      "finalAmount": 6948,
+      "shippingAddress": {
+        "name": "Ava Premium",
+        "street": "789 Marine Drive",
+        "city": "Mumbai",
+        "state": "MH",
+        "zipCode": "400002",
+        "country": "India",
+        "phone": "9876543212"
+      },
+      "paymentStatus": "PAID",
+      "paymentId": "mock_pay_seed_2",
+      "orderStatus": "DELIVERED"
+    }
+  ],
+  "coupons": [
+    {
+      "_id": "96dftwgfe",
+      "createdAt": "2026-08-11T13:38:50.355Z",
+      "updatedAt": "2026-08-11T13:38:50.355Z",
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "expiryDate": "2027-08-11T13:38:50.354Z",
+      "active": true
+    },
+    {
+      "_id": "wbgvvoeh4",
+      "createdAt": "2026-08-11T13:38:50.356Z",
+      "updatedAt": "2026-08-11T13:38:50.356Z",
+      "code": "FLAT50",
+      "type": "flat",
+      "value": 50,
+      "expiryDate": "2027-08-11T13:38:50.354Z",
+      "active": true
+    }
+  ],
+  "reviews": [
+    {
+      "_id": "upb1r9rnn",
+      "createdAt": "2026-08-11T13:38:50.358Z",
+      "updatedAt": "2026-08-11T13:38:50.358Z",
+      "userId": "161vkixr4",
+      "productId": "ez5upesdw",
+      "rating": 5,
+      "comment": "Absolutely spectacular sound cancellation quality. Truly value for money."
+    },
+    {
+      "_id": "w4tk4nmj3",
+      "createdAt": "2026-08-11T13:38:50.359Z",
+      "updatedAt": "2026-08-11T13:38:50.359Z",
+      "userId": "ds382qeg8",
+      "productId": "gwn5t2h5x",
+      "rating": 4,
+      "comment": "Superb quality leather. The color is slightly darker than the image, but holds up amazing for weekend trips."
+    }
+  ],
+  "wishlists": [
+    {
+      "_id": "a3aq638nd",
+      "createdAt": "2026-08-14T10:53:40.787Z",
+      "updatedAt": "2026-08-14T10:53:40.787Z",
+      "userId": "6i9spnhns",
+      "products": []
+    }
+  ]
+}
